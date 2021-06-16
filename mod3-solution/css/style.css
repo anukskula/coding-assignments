@@ -1,0 +1,51 @@
+/** HEADER **/
+ #header-nav {
+ 	border: 3px solid black;
+ 	background: grey;
+ }
+
+.navbar-brand {
+	height: 70px;
+}
+ .navbar-brand h1 {
+ 	color: black;
+ 	text-align: left;
+ 	margin: 0px;
+ }
+ .navbar-brand a:hover, .navbar-brand a:link {
+ 	text-decoration: none;
+ }
+
+ #nav-list a {
+ 	font-size: 1.4em;
+ 	color: black;
+ 	padding: 0px;
+ }
+
+ .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+hr {
+	width: 100%;
+	border-color: black;
+	margin: 5px;
+}
+
+
+/** MAIN CONTENT **/
+#main-content {
+	margin: 10px;
+}
+
+.section {
+	background: lightblue;
+}
+.section h3 {
+	padding-top: 10px;
+	padding-bottom: 0px;
+}
+.section p {
+	padding: 10px;
+}
+
